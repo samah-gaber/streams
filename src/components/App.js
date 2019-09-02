@@ -21,9 +21,6 @@ const App = () => {
                 <Route path="/streams/show" exact component={StreamShow} />
             </div>
         </BrowserRouter>
-
-        <h1></h1>
-        <p></p>
     </div>
     );
 };
